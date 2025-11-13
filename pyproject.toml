@@ -1,0 +1,13 @@
+[project]
+name = "cvxopt-gfm-workshop"
+version = "0.0.0"
+description = "Convex optimization and generalized factor models workshop."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cvxpy>=1.7.3",
+    "dbcp>=0.2.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.2.6",
+    "seaborn>=0.13.2",
+]
