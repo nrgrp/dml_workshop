@@ -1,7 +1,7 @@
 [project]
-name = "cvxopt-gfm-workshop"
+name = "dml-workshop"
 version = "0.0.0"
-description = "Convex optimization and generalized factor models workshop."
+description = "Disciplined machine learning workshop."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
