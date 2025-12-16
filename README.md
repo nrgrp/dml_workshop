@@ -1,1 +1,1 @@
-# Convex Optimization and Generalized Factor Models Workshop
+# Disciplined Machine Learning Workshop
